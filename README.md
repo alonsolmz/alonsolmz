@@ -11,4 +11,5 @@
 
 ### Github Stats 
  
-[[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alonsolmz&theme=gotham)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alonsolmz&theme=gotham)](https://git.io/streak-stats)
