@@ -1,31 +1,30 @@
-<h1 align="left">Hola, bienvenido a mi perfil de Github</h1>
+# Hola, soy Alonso Almerco 👋
 
-###
+He enfocado mi carrera en el desarrollo **Backend y Frontend**, con un interés creciente en **Ciberseguridad e Inteligencia Artificial**. Mi objetivo es construir software que genere un impacto positivo en las personas mediante código limpio y eficiente.
 
-<p align="left">Yo soy Alonso Almerco, estudiante de Ingenieria de Software y busco profundizar en las ramas de ciberseguridad e IA, al igual  que tener conocimientos desarrollados en el backend y frontend.</p>
+### 🚀 Sobre mí
+- 📍 Lima, Perú
+- 🎓 Estudiante de Ingeniería de Software
+- 🎯 Busco crear soluciones innovadoras y seguras.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alonso-almerco-27b8a1313) | 🌐 [Mi Portafolio](https://alonsolmzportafolio.vercel.app/)
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 💻 I code with
 
-###
+| Frontend | Backend & Data | Tools |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-<p align="left">📍  Lima, Peru<br>📚 UTP<br>🎯 Busco crear proyectos que tengan un proposito positivo para las personas, crear cosas mediante codigo.<br>www.linkedin.com/in/alonso-almerco-27b8a1313</p>
-<p align="left"> https://alonsolmzportafolio.vercel.app/</p>
-###
+---
 
-<h2 align="left">I code with</h2>
+### 📊 My GitHub Stats
 
-###
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alonsolmz&show_icons=true&theme=tokyonight&count_private=true" alt="Alonso's Stats" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsolmz&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
